@@ -2,7 +2,7 @@ import { Container } from './styles';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { NavHashLink, HashLink } from 'react-router-hash-link';
 import { useState } from 'react';
-import Resume from '../../assets/Suhail Ahmad -Resume.pdf';
+import Resume from '../../assets/SuhailAhmadResume.pdf';
 import LogoProfile from '../../assets/profilelogo.png'; // Fixed import
 
 export function Header() {
